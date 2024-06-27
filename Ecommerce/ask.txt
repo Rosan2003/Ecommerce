@@ -1,0 +1,3 @@
+middleware, why checkauth middleware
+outlet in app.js
+hooks

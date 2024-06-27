@@ -1,0 +1,48 @@
+semantic versioning "^4.19.2"
+here 2 is patch ..increase when bug is deleted and redeployed
+19 is minor version increase when feature is updated
+4 is major version
+
+npm unpackages to delete package
+
+npm outdated to check old versions
+
+npm update to update the packages and versions
+
+npm view express to view details of package of express
+
+/home : it is a route or end point
+
+query parameter : ?
+
+middleware
+
+npm i mongoose
+
+assignment: blog
+
+params use directly value
+
+query use ? and value eg /?id= ............
+
+error code
+
+bcryptjs
+
+JWT : json web token
+
+npm i jsonwebtoken
+
+if key and value is same we can write one time 
+eg {name: name} and {name} both are same
+
+pass tokens through headers in postman
+
+In value Bearer token
+in key authorization
+
+npm i cors
+
+MULTER file in middleware
+
+redux
